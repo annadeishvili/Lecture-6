@@ -35,4 +35,5 @@ a {
 .post-content{
 	display: flex;
 	gap: 30px;
+	padding: 21px !important;
 }
