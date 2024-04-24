@@ -18,12 +18,7 @@ a {
 	line-height: 12.89px;
 	font-family:"Roboto",sans-serif;
 }
-.post{
-	display: flex;
-	flex-direction: column;
-	gap: 100px;
-	padding: 50px;
-}
+
 .post-title{
 	color:#000000;
 	font-size:24px;
@@ -32,8 +27,65 @@ a {
 	line-height: 28.13px;
 	padding: 21px !important;
 }
-.post-content{
+.box1{
+	width: 362px;
+	height: 171px;
+	color:#8A8787;
+	padding: 21px;
+}
+.text{
+	font-weight: 700;
+	font-size: 10px;
+	font-family:"Roboto",sans-serif;
+	line-height: 11.72px;
+	margin-top:68px;
+	margin-left: 37px;
+}
+.text2{
+	display: inline-block;
+	font-family:"Roboto",sans-serif ;
+	font-weight: 700;
+	font-size: 10px;
+	line-height: 11.72px;
+	margin-top: 11px;
+
+}
+.p1{
+	margin-top:11px;
+	margin-left: 37px;
+}
+.box2{
+    width: 362px;
+	height: 171px;
+	color:#8A8787;
+	padding: 21px;
+	margin-left: 40px;	
+}
+.text3{
+	font-weight: 700;
+	font-size: 10px;
+	font-family:"Roboto",sans-serif;
+	line-height: 11.72px;
+	margin-top:68px;
+	margin-left: 37px;
+}
+.head{
 	display: flex;
-	gap: 30px;
-	padding: 21px !important;
+	flex-direction: row;
+}
+.box3{
+	padding: 200px;
+	width: 362px;
+	height: 171px;
+	color:#8A8787;
+	padding: 21px;
+	margin-left: 40px;
+}
+.text4{
+    font-weight: 700;
+	font-size: 10px;
+	font-family:"Roboto",sans-serif;
+	line-height: 11.72px;
+	margin-top:68px;
+	margin-left: 37px;	
 }
