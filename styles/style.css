@@ -9,6 +9,7 @@ header{
 	padding: 21px !important;
 	gap: 35px;
 	margin-bottom: 42px !important;
+	padding-left: 35px !important;
 	
 }
 a {
@@ -192,4 +193,8 @@ footer > .links {
 }
 .city{
 	margin-bottom: 80px;
+}
+.pic-text{
+	margin-top:215px;
+	text-align: center;
 }
