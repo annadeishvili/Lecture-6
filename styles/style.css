@@ -130,7 +130,7 @@ section {
     color: white;
     position: relative;
     z-index: 2;
-    top: 30px;
+    top: 215px;
     text-align: center;
   }
 }
@@ -193,8 +193,4 @@ footer > .links {
 }
 .city{
 	margin-bottom: 80px;
-}
-.pic-text{
-	margin-top:215px;
-	text-align: center;
 }
