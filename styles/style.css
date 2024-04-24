@@ -89,3 +89,91 @@ a {
 	margin-top:68px;
 	margin-left: 37px;	
 }
+.h1{
+	margin-top: 300px;
+	color:#000000;
+	font-size:24px;
+	font-weight:800;
+	font-family:"Roboto",sans-serif;
+	line-height: 28.13px;
+	padding: 21px !important;
+}
+.bridge{
+	margin-top: 50px;
+	vertical-align: top;
+	position: relative;
+	margin-left: 21px;
+	width: 758px;
+	height: 430px;
+}
+.lake{
+	margin-top: 50px;
+	vertical-align: top;
+	position: relative;
+	margin-left: 21px;
+	width: 758px;
+	height: 430px;
+	margin-bottom: 36px;
+}
+.forest{
+	position: absolute;
+	right: 5%;
+	top: 131%;
+}
+.elephant{
+	position: absolute;
+	right: 5%;
+	margin-top: -10%;
+}
+.city{
+	position: absolute;
+	right: 5%;
+	margin-top: 15%;
+}
+footer{
+	width: 1263px;
+	height: 201px;
+	background-color: #243043;
+}
+.logo{
+	margin-left: 1100px;
+	margin-top: 80px;
+}
+.lg1{
+	margin-left: 137px;
+	margin-top: -65px;
+	display: flex;
+	flex-direction: column;
+}
+
+.lg2{
+	margin-left: 266px;
+	margin-top: -60px;
+	display: flex;
+	flex-direction: column;
+}
+.lg3{
+	margin-left: 417px;
+	margin-top: -50px;
+	display: flex;
+	flex-direction: column;
+}
+.a {
+	color: #818687;
+	font-weight: 700;
+	font-size: 12px;
+	font-family:"Roboto",sans-serif ;
+}
+.txt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 599px;
+}
+.txt1{
+	font-family:"Roboto",sans-serif ;
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 12px;
+	line-height:14.06px ;
+	margin-top: -50px;
+}
